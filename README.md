@@ -56,7 +56,7 @@ This repository provides a Python-based system for evaluating student progressio
 ## Credits
 
 - The graphics library is adapted from John Zelle's work for "Python Programming: An Introduction to Computer Science".
-- Programmed by: Student ID 20231194
+- Programmed by: W.Dumindu Tharushika
 
 ## License
 
